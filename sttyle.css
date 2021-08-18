@@ -182,9 +182,11 @@ text-decoration: none;
  }
 
 .testimonials{
-    border-top: 3px ridge   #FF0000 ;
+    border-top: 4px ridge   #FF0000 ;
     background-color:#fdcccc;
     font-family: 'Josefin Sans', sans-serif;
+    background: url(images/foot.jpg) no-repeat center ;
+    background-attachment: fixed;
 }
 .font{
     font-family: 'Josefin Sans', sans-serif;
