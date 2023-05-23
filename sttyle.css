@@ -13,7 +13,8 @@ font-family: 'Libre Baskerville', serif;
 
 /* NAVBAR */
 .navi {
- 
+    font-family: 'KoHo', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 30px;
 
     font-weight: bold;
@@ -397,7 +398,7 @@ border-radius: 4px !important;
     border-radius: 10px;
     text-align: center;
     font-size: 29px;
-    box-shadow: 9px 9px 5px #9E7676;
+    box-shadow: 4px 4px 4px #9E7676;
     z-index: 100;
     text-decoration: none;
     color: #FFF8EA;
@@ -413,52 +414,3 @@ border-radius: 4px !important;
 	margin-top:11px;
   
 }
-/* 
-@media only screen and (max-width: 1900px) {
-    .float{
-        width: 12%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 1300px) {
-    .float{
-        width: 15%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 990px) {
-    .float{
-        width: 18%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 900px) {
-    .float{
-        width: 20%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 750px) {
-    .float{
-        width: 25%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 665px) {
-    .float{
-        width: 25%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 490px) {
-    .float{
-        width: 35%;
-        height: 4%;
-    }
-  }
-  @media only screen and (max-width: 400px) {
-    .float{
-        width: 35%;
-        height: 7%;
-    }
-  } */
