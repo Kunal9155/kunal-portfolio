@@ -42,7 +42,7 @@ font-family: 'Libre Baskerville', serif;
 }
 
 #servi {
-    background: url(images/galaxy.jpg) no-repeat;
+    background: url(images/galaxy.jpg) no-repeat center center fixed;
     background-attachment: fixed;
 }
 
@@ -207,10 +207,14 @@ text-decoration: none;
     border-top: 7px double   #FFF8EA ;
     background-color:#fdcccc;
     font-family: 'Josefin Sans', sans-serif;
-    background: url(images/foot.jpg) no-repeat center ;
+    background: url(images/foot.jpg) no-repeat center center fixed ;
     background-attachment: fixed;
 }
 .font{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #000000 !important;
+}
+.fonts{
     font-family: 'Josefin Sans', sans-serif;
     color: #FFF8EA !important;
 }
@@ -413,4 +417,8 @@ border-radius: 4px !important;
 .my-float{
 	margin-top:11px;
   
+}
+.nav-button{
+   background-color: #FFF8EA !important;
+ 
 }
